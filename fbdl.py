@@ -8,10 +8,12 @@ os.system('clear')
 def bannar():
   print ('''\033[95m
     
-  ___ ___   __   _____ ___  ___ ___  ___ 
- | __| _ )__\ \ / /_ _|   \| __/ _ \/ __|
- | _|| _ \___\ V / | || |) | _| (_) \__ \
- |_| |___/    \_/ |___|___/|___\___/|___/
+ 
+  _____ ____   __     ______   ___  
+ |  ___| __ )  \ \   / /  _ \ / _ \ 
+ | |_  |  _ \   \ \ / /| | | | | | |
+ |  _| | |_) |   \ V / | |_| | |_| |
+ |_|   |____/     \_/  |____/ \___/ 
                                          
 ''')
   print ('''\033[94m
@@ -28,11 +30,11 @@ def bannar():
 ''')
   print ('\033[94m-'*50)
   print ('')
-  print (' \033[96m Author   : \033[95m RaRe BlAcK')
+  print (' \033[96m Creator  : \033[95m RaRe BlAcK')
   print ('')
   print (' \033[96m Tool     : \033[95m FB Videos Grabber')
   print ('')
-  print (' \033[96m Facebook : \033[95m https://www.facebook.com/')
+  print (' \033[96m Facebook : \033[95m https://www.facebook.com/no.namer56')
   print ('')
   print (' \033[96m Github   : \033[95m https://github.com/sgtreaz35/')
   print ('')
