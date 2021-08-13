@@ -36,7 +36,7 @@ def bannar():
   print ('')
   print (' \033[96m Github   : \033[95m https://github.com/sgtreaz35/')
   print ('')
-  print (' \033[96m Coded By : \033[95m RaRe bLaCk , QuantumCyberSquad )
+  print (' \033[96m Coded By : \033[95m QuantumCyberSquad )
   print ('')
   print ('\033[94m-'*50)
   print ('')
