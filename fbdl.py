@@ -132,6 +132,6 @@ if choice=='2':
     print ('Cheack Your Sdcard')
     print ('Good Bye')
 else:
-  print ('Tnks For Support')
+  print ('Thanks For Support')
  
   
