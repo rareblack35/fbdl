@@ -130,9 +130,9 @@ if choice=='2':
     os.system('mv file.mp4 /sdcard')
     print ('File Save As file.mp4 in Your Sdcard.')
     print ('Cheack Your Sdcard')
-    print ('Allah Hafiz ')
+    print ('Good Bye')
 else:
-  print ('\033[Allah Hafiz')
+  print ('\033[Bye...)
   print ('Tnks For Support ')
  
   
