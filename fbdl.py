@@ -12,7 +12,8 @@ def bannar():
  | __| _ )__\ \ / /_ _|   \| __/ _ \/ __|
  | _|| _ \___\ V / | || |) | _| (_) \__ \
  |_| |___/    \_/ |___|___/|___\___/|___/
-                                         ''')
+                                         
+''')
   print ('''\033[94m
     
    _____           _     _               
@@ -22,7 +23,7 @@ def bannar():
  | |__| | | | (_| | |_) | |_) |  __/ |   
   \_____|_|  \__,_|_.__/|_.__/ \___|_|   
                                          
-                                         \033[93m Version : 1.0     
+                                         \033[93m Version : R.7     
                                     
 ''')
   print ('\033[94m-'*50)
@@ -35,7 +36,7 @@ def bannar():
   print ('')
   print (' \033[96m Github   : \033[95m https://github.com/sgtreaz35/')
   print ('')
-  print (' \033[96m Coded By : \033[95m RaRe bLaCk , RaRe bLaCk')
+  print (' \033[96m Coded By : \033[95m RaRe bLaCk , QuantumCyberSquad )
   print ('')
   print ('\033[94m-'*50)
   print ('')
