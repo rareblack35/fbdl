@@ -130,7 +130,7 @@ if choice=='2':
     print ('Cheack Your Sdcard')
     print ('Allah Hafiz ')
 else:
-  print ('\033[91mGood Bye')
+  print ('\033[Allah Hafiz')
   print ('Tnks For Support ')
  
   
